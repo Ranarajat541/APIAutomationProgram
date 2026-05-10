@@ -5,11 +5,10 @@
 
         <groups>
             <run>
-                <include name="sanity">
+                <include name="reg">
                 </include>
             </run>
         </groups>
-
 
 
         <classes>
